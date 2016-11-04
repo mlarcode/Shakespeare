@@ -1,0 +1,38 @@
+Cbody{
+
+}
+
+div.page-header{
+    margin-top: 0px;
+    background-color:#be9797;
+    padding-top: 4px;
+    margin-bottom:0px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+h1.container {
+    background-color: maroon;
+    margin-top: 0px;
+    padding-top: 5px;
+}
+
+
+/*NAVBAR*/
+nav#navvy.navbar.navbar-static-top {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #FFF6F0;
+    background-color: #6A1525;
+}
+
+
+
+
+
+
+
